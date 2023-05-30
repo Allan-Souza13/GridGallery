@@ -1,5 +1,5 @@
 
-![gitphoto]()
+
 <div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Allan-Souza13/GridGallery/assets/77082266/8ce0d29e-16ad-439d-a4ed-e273cfb422bf)" width="700px" />
+<img src="https://github.com/Allan-Souza13/GridGallery/assets/77082266/8ce0d29e-16ad-439d-a4ed-e273cfb422bf" width="700px" />
 </div>
